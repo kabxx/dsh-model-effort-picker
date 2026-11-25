@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "dsh-model-effort-picker",
+    "description": "Replace the Web model picker to remove Default and require an explicit reasoning effort in the model menu and /model."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "dsh-model-effort-picker",
+    "description": "替换 Web 端模型选择器，移除推理等级中的 Default 选项，支持在模型菜单与 /model 中显式选定推理等级。"
+  }
+}
